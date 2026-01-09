@@ -1,12 +1,10 @@
-# Sales-Performance-KPI-Dashboard
+# Sales-Performance-KPI-Dashboard (Power BI)
 Power BI sales performance dashboard analyzing revenue growth, product mix, customer concentration, and regional trends using DAX-driven KPIs.
-# Sales Performance Dashboard (Power BI)
-## Problem Statement 
 
+## Problem Statement 
 The business needs a clear, centralized view to understand the key drivers of sales performance and revenue growth across products, customers, regions, and time.
 
 ## Project Objective
-
 The objective of this project is to develop an interactive **Power BI dashboard** that provides a consolidated view of sales performance by analyzing revenue trends, sales volume, product mix, customer concentration, and geographical distribution.
 
 The dashboard aims to:
