@@ -58,3 +58,4 @@ The dashboard leverages DAX measures to ensure accurate KPI computation, time-ba
 - DAX-based measure development  
 - Data storytelling and dashboard design  
 - Translating business questions into analytical insights  
+📊 [Download the Power BI dashboard (.pbix)](https://github.com/Chisom-Okoli/Sales-Performance-KPI-Dashboard/blob/main/Sales%20powerbi%20Dashboard.pbix)
