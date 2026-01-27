@@ -1,13 +1,23 @@
 # Sales-Performance-KPI-Dashboard (Power BI)
 Power BI sales performance dashboard analyzing revenue growth, product mix, customer concentration, and regional trends using DAX-driven KPIs.
 
+## Project Overview
+This project analyzes sales performance data to evaluate key business KPIs such as revenue, sales growth, product performance, and regional trends. The goal is to provide stakeholders with an interactive dashboard that supports data-driven decision-making and performance monitoring.
+The dashboard is designed for sales managers and business leaders to quickly identify strengths, weaknesses, and opportunities for improvement.
+
 ## Problem Statement 
 The business needs a clear, centralized view to understand the key drivers of sales performance and revenue growth across products, customers, regions, and time.
 
-## Project Objective
-The objective of this project is to develop an interactive **Power BI dashboard** that provides a consolidated view of sales performance by analyzing revenue trends, sales volume, product mix, customer concentration, and geographical distribution.
+## Project Objectives
+The objective of this project is to 
+- Measure overall sales performance using key KPIs
+- Identify top-performing and underperforming products
+- Analyze regional sales trends
+- Track sales growth over time
+- Support strategic decisions related to pricing, inventory, and sales focus
 
-The dashboard aims to:
+  
+## The dashboard aims to:
 - Identify whether revenue growth is driven by pricing or sales volume
 - Highlight top-performing products and customer segments
 - Analyze regional demand and market concentration
@@ -21,12 +31,13 @@ The analysis revealed **$105M in total revenue with 16.1% year-on-year growth**,
 
 This project demonstrates the application of **Power BI, KPI analysis, data modeling, and business-oriented data storytelling** to transform raw data into actionable insights that support informed decision-making.
 
-## Key Insights
-- $105M total revenue with 16.1% YoY growth  
-- Growth driven by increased sales volume rather than pricing changes  
-- Cartons and cans identified as top-performing product categories  
-- Revenue concentration among high-value customers  
-- Strong demand across Asian markets with steady European performance  
+## Tools & Technologies
+- Power BI  
+- DAX  
+- Data Modeling  
+- Data Visualization
+- Powerpoint
+- Business Intelligence
 
 ## DAX Measures & Calculations
 
@@ -43,19 +54,24 @@ The dashboard leverages DAX measures to ensure accurate KPI computation, time-ba
 - `CALCULATE()` for context modification  
 - `SUM()` and `DIVIDE()` for accurate aggregations  
 - Time intelligence functions such as `SAMEPERIODLASTYEAR()`  
-- Filter context management for dynamic visuals  
-
-## Tools & Technologies
-- Power BI  
-- DAX  
-- Data Modeling  
-- Data Visualization
-- Powerpoint
-- Business Intelligence  
-
+- Filter context management for dynamic visuals
+  
 ## Skills Demonstrated
 - KPI design and performance analysis  
 - DAX-based measure development  
 - Data storytelling and dashboard design  
 - Translating business questions into analytical insights  
-📊 [Download the Power BI dashboard (.pbix)](https://github.com/Chisom-Okoli/Sales-Performance-KPI-Dashboard/blob/main/Sales%20powerbi%20Dashboard.pbix)
+
+  
+## Key Insights
+- Certain products consistently generate higher revenue and drive overall performance
+- Sales performance varies significantly across regions, indicating opportunities for targeted strategies
+- Seasonal trends affect revenue, suggesting the need for demand forecasting and planning
+
+## Recommendations
+- Increase focus and marketing spend on top-performing products
+- Develop targeted sales strategies for underperforming regions
+- Use historical trends to improve inventory and sales forecasting
+
+
+## Dashboard Overview
