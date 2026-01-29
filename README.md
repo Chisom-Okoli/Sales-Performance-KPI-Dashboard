@@ -75,3 +75,5 @@ The dashboard leverages DAX measures to ensure accurate KPI computation, time-ba
 
 
 ## Dashboard Overview
+![Sales Performance KPI Dashboard](https://raw.githubusercontent.com/Chisom-Okoli/Sales-Performance-KPI-Dashboard/main/Sales%20preformance%20KpI%20Dashboard.png)
+
